@@ -49,6 +49,8 @@ We are given a hotel bookings dataset. This dataset contains booking information
 
 ## Data Preparation:
 
+Data preparation ensures accuracy in data, which leads to accurate insights. Without data preparation, it’s Possible that insights will be off due to junk data. i.e. No quality data, no quality mining results!
+
 It includes basic inspection on the raw data, Data Cleaning by handling missing values. We also treated outliers first by capping method, we defined some thresholds to cap some of the categorical features, then we handled the outliers in remaining features by standard IQR method, after that we did some feature engineering in order to understand the patterns in latent features.
 
 ## Exploratory Data Analysis:
